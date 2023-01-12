@@ -1,5 +1,6 @@
-I am a cat.
-I haven't had my name yet.
-I live in Japan.
-My owner is so stupid.
-However, he is so kind too.
+# ソフトウェア工学練習
+## 日付
+2023/01/12
+## 自己紹介リスト
+- [target1](https://github.com/buraito/hello-world/blob/main/intro.md)
+- [target2](https://github.com/buraito/hello-world/blob/main/intro2.md)
